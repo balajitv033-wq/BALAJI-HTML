@@ -1,1 +1,1 @@
- https://balajitv033-wq.github.io/BALAJI-HTML/ lab.html
+ https://balajitv033-wq.github.io/BALAJI-HTML/lab.html
